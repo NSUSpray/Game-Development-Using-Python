@@ -16,3 +16,13 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 1. [ ] subimage
 1. [ ] bubbles
 1. [ ] television
+
+
+## Chapter 5. Navigation and Control
+
+<img src="ch5/screen-1.gif" alt="screenshot" align="right" />
+
+1. [x] elliptical track
+1. [ ] find path
+1. [ ] choose path
+1. [ ] choose waypoints path
