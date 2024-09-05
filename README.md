@@ -7,15 +7,17 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 
 ## Chapter 2. Graphics and Images
 
-<img src="ch2/screen-1-3.png" alt="screenshot" align="right" />
-
 1. [x] hex
 1. [x] image file
 1. [x] target
-1. [ ] magnifying
-1. [ ] subimage
+1. [x] magnifying
+1. [x] subimage
 1. [ ] bubbles
 1. [ ] television
+
+<img src="ch2/screen-1-3.png" alt="screenshot 1—3" />
+<img src="ch2/screen-4.gif" alt="screenshot 4" />
+<img src="ch2/screen-5.gif" alt="screenshot 5" />
 
 
 ## Chapter 5. Navigation and Control
