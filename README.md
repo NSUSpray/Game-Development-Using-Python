@@ -23,6 +23,18 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 ![screenshot 8](ch2/screen-8.gif)
 
 
+## Chapter 3. The Game Loop
+
+1. [x] color button
+1. [ ] four lane road
+1. [ ] bouncing ball 2
+1. [ ] bouncing ball keys
+1. [ ] noisy television
+1. [ ] rotate
+
+![screenshot 1](ch3/screen-1.gif)
+
+
 ## Chapter 5. Navigation and Control
 
 1. [x] elliptical track
