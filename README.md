@@ -56,4 +56,4 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 1. [x] play mp3
 1. [x] pan
 1. [x] notes
-1. [ ] sound recorder
+1. [x] sound recorder
