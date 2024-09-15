@@ -49,3 +49,11 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 
 ![screenshot 1](ch5/screen-1.gif)
 ![screenshot 2—3](ch5/screen-2-3.gif)
+
+
+# Chapter 6. Sound
+
+1. [x] play mp3
+1. [x] pan
+1. [ ] notes
+1. [ ] sound recorder
