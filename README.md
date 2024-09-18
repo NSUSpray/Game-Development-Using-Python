@@ -42,14 +42,16 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 ## Chapter 4. Game AI: Collisions
 
 1. —
-1. [x] bouncing balls
-1. [x] cubes collision
-1. [x] snooker
-1. [ ] newton-raphson
+1. bouncing balls
+1. —
+1. cubes collision
+1. snooker
+1. newton-raphson
 
 ![screenshot 2](ch4/screen-2.gif)
 ![screenshot 3—4](ch4/screen-3-4.gif)
 ![screenshot 5](ch4/screen-5.gif)
+![screenshot 6](ch4/screen-6.gif)
 
 
 ## Chapter 5. Navigation and Control
