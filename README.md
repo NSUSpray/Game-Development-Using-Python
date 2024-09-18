@@ -68,7 +68,11 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 
 ## Chapter 6. Sound
 
-1. [x] play mp3
-1. [x] pan
-1. [x] notes
-1. [x] sound recorder
+1. —
+1. play mp3
+1. pan
+1. notes
+1. sound recorder
+1. distance attenuation
+1. distance attenuation 2
+1. —
