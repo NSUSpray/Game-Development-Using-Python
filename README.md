@@ -39,6 +39,18 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 ![screenshot 6—7](ch3/screen-6-7.gif)
 
 
+## Chapter 4. Game AI: Collisions
+
+1. —
+1. [x] bouncing balls
+1. [x] cubes collision
+1. [ ] snooker
+1. [ ] newton-raphson
+
+![screenshot 2](ch4/screen-2.gif)
+![screenshot 3—4](ch4/screen-3-4.gif)
+
+
 ## Chapter 5. Navigation and Control
 
 1. [x] elliptical track
@@ -51,7 +63,7 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 ![screenshot 2—3](ch5/screen-2-3.gif)
 
 
-# Chapter 6. Sound
+## Chapter 6. Sound
 
 1. [x] play mp3
 1. [x] pan
