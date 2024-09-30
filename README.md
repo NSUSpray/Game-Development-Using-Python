@@ -56,14 +56,15 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 
 ## Chapter 5. Navigation and Control
 
-1. [x] elliptical track
-1. [x] find path
-1. [x] choose path
-1. [x] choose waypoints path
-1. [ ] npc vs avatar
+1. elliptical track
+1. find path
+1. choose path
+1. choose waypoints path
+1. npc vs avatar
 
 ![screenshot 1](ch5/screen-1.gif)
 ![screenshot 2—4](ch5/screen-2-4.gif)
+![screenshot 5](ch5/screen-5.gif)
 
 
 ## Chapter 6. Sound
