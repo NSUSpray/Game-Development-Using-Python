@@ -59,11 +59,11 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 1. [x] elliptical track
 1. [x] find path
 1. [x] choose path
-1. [ ] choose waypoints path
+1. [x] choose waypoints path
 1. [ ] npc vs avatar
 
 ![screenshot 1](ch5/screen-1.gif)
-![screenshot 2—3](ch5/screen-2-3.gif)
+![screenshot 2—4](ch5/screen-2-4.gif)
 
 
 ## Chapter 6. Sound
