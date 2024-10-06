@@ -77,3 +77,12 @@ Solved exercises from the book “Game Development Using Python” by James R. P
 1. distance attenuation
 1. distance attenuation 2
 1. —
+
+
+## Chapter 7. C2H6O Jet Boat Race
+
+1. —
+1. —
+1. non doubling sound
+1. —
+1. —
